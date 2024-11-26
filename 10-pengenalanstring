@@ -1,0 +1,11 @@
+# string adalah kumpulan dari karakter 
+
+data = " ini adalah string"
+print(data)
+print("panjang karakter : ", len(data))
+print("tipe data : ", type(data))
+
+# 1. cara membuat string 
+
+"""
+     
